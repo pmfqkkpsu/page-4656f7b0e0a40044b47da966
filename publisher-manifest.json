@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "69aa978a81f8258792bfe477",
+  "owner": "pmfqkkpsu",
+  "repo": "page-4656f7b0e0a40044b47da966",
+  "title": "猫尾酒馆",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4656f7b0e0a40044b47da966",
+      "a": "猫尾酒馆",
+      "b": "2027官方最新地址导航",
+      "entity": "猫尾酒馆",
+      "brand": "猫尾酒馆",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "41b300a6d13130f7de7512ac194beece958a06048fc2b7aa3bf5848453bd7d96",
+      "content": {
+        "primary_entity": "猫尾酒馆",
+        "keyword1": "猫尾酒馆",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，对照订阅格式导入配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，按订阅文档配置即可开始使用。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，猫尾酒馆提供基础版、旗舰版与团队版三档订阅，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由，可按月或按年付费，按客户端文档导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路特性比较三档套餐，按使用强度选择。",
+          "AI_FEATURES_TITLE": "套餐差异一览",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合单人轻度使用；旗舰版每月 300GB、5 台设备，适合多设备家庭。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点与专属客户经理。",
+          "AI_FEATURE_TEXT_3": "三档均支持按月付或年付，年付分别为 ¥150/年、¥350/年、¥850/年，长期使用可选年付。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "线路与权益",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "先选套餐，再核对适配要求，最后按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "猫尾酒馆提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 至 1000GB 流量与 3 至 20 台设备，可按使用强度选择并按客户端文档导入订阅。",
+          "AI_HERO_SUBTITLE": "三档订阅，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "月流量覆盖 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "年付方案分别为 ¥150、¥350、¥850",
+          "AI_PLANS_INTRO": "基础版适合单人轻度使用；旗舰版流量与设备数更充裕；团队版面向多设备与定制路由需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量、设备数和线路需求，在基础版、旗舰版与团队版之间确定一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与订阅格式是否匹配。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅配置，完成连接设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "猫尾酒馆订阅导航",
+          "AI_FAQ_ANSWER_1": "基础版适合1到3台设备、每月约100GB流量的轻度使用；旗舰版支持5台设备和300GB流量，适合多设备同时使用；团队版面向20台设备和1000GB流量需求。年付分别只需150元、350元和850元。",
+          "AI_FAQ_ANSWER_2": "订阅配置以链接或二维码形式提供，导入匹配的客户端后即可连接。具体导入步骤依不同客户端文档操作，遇到配置问题可提交工单获取协助。",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备同时在线，旗舰版为5台，团队版最多20台。设备数量按套餐区分，可以根据日常使用的手机、电脑或平板数量来选择。",
+          "AI_FAQ_ANSWER_4": "旗舰版配置IPLC专线并针对游戏加速优化，同时提供全节点原生流媒体解锁。基础版使用普通线路节点池，团队版提供VIP专属高带宽节点。",
+          "AI_FAQ_ANSWER_5": "月付适合短期使用或先体验线路质量，年付在月付基础上大幅降低月均成本。基础版年付150元，旗舰版年付350元，团队版年付850元，长期使用更划算。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "订阅怎么导入客户端？",
+          "AI_FAQ_QUESTION_3": "一个订阅支持几台设备在线？",
+          "AI_FAQ_QUESTION_4": "旗舰版的专线适合游戏吗？",
+          "AI_FAQ_QUESTION_5": "月付和年付有什么区别？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vfzjpmw.cn",
+    "host": "vfzjpmw.cn"
+  },
+  "file_hashes": {
+    "index.html": "3d4ebd1cc246a5236fe659c1a8c44a8f91b0567f726e9ee92489eadca18565ce",
+    "sitemap.xml": "6f61c4795aa73542285a8e0fa071554bd767cb6cc3ef7754e66de533d8f013d3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5558c51638d6a3b54ba47046370a938aacefebe2b38d8edbb646ce90dfe3f531",
+    "robots.txt": "f6fdec0189299268279bbc51b8dd41a1b16a302152d919cfed0a20b1d470cf4c",
+    "3f876a537e2e9cb29863f4fc39b0c4be.txt": "59b4ff95e1e6c8582f01dc3d15eeb33b924fc1584aa5cd50a93867b504c95e5e"
+  },
+  "revision": "44341641c8979eb011c27d412a080dde69a7a2d39943e81ecfae9c4438f12ed8"
+}
